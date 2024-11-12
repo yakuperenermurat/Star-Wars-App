@@ -8,7 +8,7 @@ Bu uygulamanın amacı, React kullanarak temel bir Star Wars gemi bilgi uygulama
 
 ## Canlı Demo
 
-Projeyi çevrimiçi olarak keşfetmek için [Demo Linki](https://gleaming-bienenstitch-919656.netlify.app) üzerinden erişebilirsiniz.
+Projeyi çevrimiçi olarak keşfetmek için [Demo Linki](https://silver-haupia-1fd482.netlify.app) üzerinden erişebilirsiniz.
 
 ## Özellikler
 
